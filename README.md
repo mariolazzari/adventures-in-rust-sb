@@ -1,5 +1,9 @@
 # Adventures in Rust
 
+## Rust for TypeScript Developers
+
+YouTube [video](https://www.youtube.com/watch?v=jBZ29SBrWyE&list=PL_L_J_Lv0U2qph5VhW8bQHuxUqP0ffO2p&index=1)
+
 ## How to Start Learning Rust (for TypeScript Developers)
 
 ### Installation
@@ -13,6 +17,7 @@ rustup update
 ```
 
 #### Create first project
+
 ```sh
 cargo new first-rust-project
 cargo build
@@ -20,8 +25,11 @@ cargo run
 ```
 
 #### Tools
+
 - Rust analyzer
 - Clippy
+
+## Rust for TypeScript developers
 
 ## Links
 
